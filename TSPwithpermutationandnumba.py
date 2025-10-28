@@ -1,4 +1,4 @@
-
+# there is a saying if brute force doesnt work ur not using enough brute force here is a perfect example of the hardest problem in computer science and how numba can allow u a lot more brute force 
 import matplotlib.pyplot as plt
 import numpy as np
 from math import sqrt
